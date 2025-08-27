@@ -1,6 +1,6 @@
 ### Hi 👋 , I'm Nguyễn Hoàng Trình, you can call me Ryan
 
-- I'm looking for suitable job.
+- I'm .
 - I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified Cloud engineer AWS 👨🏻‍💻☁️
 
 ### Connect with me
